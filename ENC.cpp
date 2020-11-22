@@ -37,7 +37,7 @@ void calcu(unsigned int k, unsigned int y, unsigned int o, unsigned int j,char g
 				o = o + 1;
 			}
 		}
-		cout << "Confrim or Retry"<<endl;
+		cout << "Confrim or Retry ?"<<endl;
 		cout << "(Y/N)" ;
 		cout << "::" << endl;
 		cout << ":: ";
