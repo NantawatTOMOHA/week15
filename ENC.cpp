@@ -20,6 +20,7 @@ int main()
 
 void calcu(unsigned int k, unsigned int y, unsigned int o, unsigned int j,char g) {
 	while (g!=89) {
+		cout<<"ENTER SENTENCE :: ";
 		cin >> N.data;
 		for (int i = 0; i < N.data.size(); i++)
 		{
